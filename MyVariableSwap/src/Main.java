@@ -5,9 +5,9 @@ public class Main {
 		
 		String x = "water";
 		String y = "Kool-Aid";
-		String temp = x;
+		String temp;
 		
-//		temp = x;
+		temp = x;
 		x = y;
 		y = temp;
 		
