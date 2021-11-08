@@ -1,0 +1,13 @@
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		System.out.println("I love pizza\n");
+		System.out.println("It's real good!");
+		
+		
+//		\n is an escape sequence for a new line
+	}
+
+}
