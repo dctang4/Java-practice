@@ -4,8 +4,8 @@ public class Main {
 
 	public static void main(String[] args) {
 		
-		double x = 3.14;
-		double y = -10;
+//		double x = 3.14;
+//		double y = -10;
 		
 //		double z = Math.max(x, y);	// find the max value
 //		double z = Math.min(x, y);  // find the min value
