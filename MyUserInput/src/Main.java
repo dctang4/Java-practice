@@ -4,7 +4,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		
-		Scanner scanner = new Scanner(System.in);
+		Scanner scanner = new Scanner(System.in);  // starts the scanner
 		
 		System.out.println("What is your name? ");
 		String name = scanner.nextLine();
@@ -19,6 +19,8 @@ public class Main {
 		System.out.println("Hello " + name);
 		System.out.println("You are " + age + " years old");
 		System.out.println("You like " + food);
+		
+		scanner.close();  // closes the scanner
 
 	}
 
