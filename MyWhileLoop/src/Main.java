@@ -15,8 +15,8 @@ public class Main {
 //			name = scanner.nextLine();
 //		}
 		
-		// a variation of the while loop where you execute the actions once first before 
-		// checking the conditions
+		// a variation of the while loop where you execute the block of code once first 
+		// before checking the conditions
 		do{
 			System.out.print("Enter your name: ");
 			name = scanner.nextLine();
@@ -27,11 +27,6 @@ public class Main {
 		
 		scanner.close();
 		
-//		int i = 1;
-//		
-//		while(i==1) {
-//			System.out.println("Help, I'm stuck in a while loop");
-//		}
 
 	}
 
