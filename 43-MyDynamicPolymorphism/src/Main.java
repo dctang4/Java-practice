@@ -31,7 +31,8 @@ public class Main {
 			System.out.println("That choice was invalid");
 			animal.speak();
 		}
-
+		
+		scanner.close();
 	}
 
 }
