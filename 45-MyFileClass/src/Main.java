@@ -6,8 +6,8 @@ public class Main {
 		
 		// file = An abstract representation of file and directory pathnames
 		
-//		File file = new File("secret_message.txt"); // if file is in project folder
-		File file = new File("/home/chun/Desktop/secret_message.txt"); // if file is anywhere else
+		File file = new File("secret_message.txt"); // if file is in project folder
+//		File file = new File("/home/chun/Desktop/secret_message.txt"); // if file is anywhere else
 		
 		if(file.exists()) {
 			System.out.println("This file exists!");
