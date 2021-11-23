@@ -8,6 +8,7 @@ public class MyFrame extends JFrame {
 		this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		this.setLayout(new FlowLayout());
 		
+		// Uses wrapper classes i.e. Integer[], Double[]
 		String[] animals = {"dog", "cat", "bird"};
 		JComboBox comboBox = new JComboBox(animals);
 		
