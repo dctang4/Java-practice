@@ -40,7 +40,6 @@ public class MyFrame extends JFrame implements MouseListener {
 	public void mouseClicked(MouseEvent e) {
 		// Invoked when the mouse button has been clicked (pressed and released) on a component
 //		System.out.println("You clicked the mouse");
-		
 	}
 
 	@Override
