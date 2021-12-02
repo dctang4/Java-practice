@@ -10,8 +10,6 @@ public class Main {
 		//				of methods or classes for various data types.
 		//				Use 1 version for all reference data types
 		
-		// bounded types =	you can create the objects of a generic class to have data
-		//					of specific derived types ex.Number
 		
 		MyGenericClass<Integer, Integer> myInt = new MyGenericClass<>(1,9);
 		MyGenericClass<Double, Double> myDouble = new MyGenericClass<>(3.14,1.01);
