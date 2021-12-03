@@ -48,9 +48,6 @@ public class Main {
 //		timer.scheduleAtFixedRate(task, 0, 1000);
 //		timer.scheduleAtFixedRate(task, date.getTime(), 1000);
 		
-		System.out.println(date);
-		
-		
 	}
 
 }
